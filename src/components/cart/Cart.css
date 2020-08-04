@@ -1,0 +1,20 @@
+.cart-container {
+  padding-left: 10px;
+}
+.cart-container h2 {
+  margin: 0px auto;
+  text-align: center;
+}
+
+.cart-container .cart-actions {
+  margin-top: 10px;
+  text-align: center;
+}
+
+.cart-container .cart-actions button {
+  padding: 10px;
+}
+
+.cart-container .total-pay {
+  margin: 10px;
+}

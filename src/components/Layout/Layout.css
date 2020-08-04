@@ -1,0 +1,11 @@
+.main-layout {
+  position: relative;
+  margin: 0px auto;
+}
+.main-layout .content {
+  margin: 10px;
+}
+
+.main-layout .title {
+  color: #003472;
+}

@@ -1,0 +1,17 @@
+.products-container h2 {
+  margin: 0px auto;
+  text-align: center;
+}
+
+.products-container .list {
+  display: flex;
+  align-items: center;
+  overflow-x: auto;
+  flex-wrap: wrap;
+  max-width: 1080px;
+}
+
+.products-container .more {
+  margin-top: 10px;
+  text-align: center;
+}

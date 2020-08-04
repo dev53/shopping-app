@@ -1,0 +1,27 @@
+.cart-item {
+  border: 2px;
+  border-style: outset;
+  padding: 10px;
+  width: 320px;
+}
+
+.cart-item img {
+  width: 128px;
+  padding: 5px;
+}
+
+.cart-item .cart-info {
+  padding-top: 25px;
+}
+
+.cart-item .cart-price {
+  margin-top: 10px;
+  text-align: center;
+}
+
+.cart-item .cart-actions {
+  margin-top: 20px;
+}
+.cart-item .cart-actions button {
+  margin: 10px;
+}
