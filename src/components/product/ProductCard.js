@@ -41,7 +41,7 @@ function ProductCard ({ product, updateServerFavorite, addToCart }) {
         <div className='card-actions container'>
           <div>{stock} left</div>
           <div>
-            <button className='shop' onClick={onBtnClick}> + add</button>
+            <button disabled={stock === 0} className='shop' onClick={onBtnClick}> + add</button>
           </div>
         </div>
       </div>
